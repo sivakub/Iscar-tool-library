@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"id":	"9b094af8-473a-4787-af6e-31f373cb4d92",
+	"author":	"Boopathi Sivakumar",
+	"description":	{
+		"":	"Iscar tooling"
+	},
+	"version":	"V1.00",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
